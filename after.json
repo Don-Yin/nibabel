@@ -1,0 +1,5048 @@
+{
+  "phase": "after",
+  "python": "3.14.3",
+  "numpy": "2.4.3",
+  "source_sha256": "c1fe394383b47f8a3b5b96ac5d606dc9a305cb962f49b4cba93a78606c2f0b27",
+  "rows": [
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,5048 @@
+{
+  "phase": "before",
+  "python": "3.14.3",
+  "numpy": "2.4.3",
+  "source_sha256": "2b3a58d1d89717c3640e04b6c0d229e5fb1059bbeb6d28dd3a1270dd48b42c38",
+  "rows": [
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ParcelsAxis",
+      "fixture": 0,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for Parcel axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "ScalarAxis",
+      "fixture": 1,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for ScalarAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "LabelAxis",
+      "fixture": 2,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "ValueError: Input name has incorrect shape (()) for LabelAxis axis"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 3,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "int64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 4,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 5,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "int64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 6,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "BrainModelAxis",
+      "fixture": 7,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: too many indices for array: array is 0-dimensional, but 1 were indexed"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "int64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 8,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 9,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "int64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 10,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int",
+      "index": 4,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -5,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int8",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -5,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int16",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -5,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int32",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -5,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "int64",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint8",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint16",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint32",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 11,
+      "index_type": "uint64",
+      "index": 4,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": -1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int",
+      "index": 2,
+      "passed": true,
+      "error": null
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -3,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": -1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "int64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint8",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint16",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint32",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 0,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 1,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    },
+    {
+      "axis": "SeriesAxis",
+      "fixture": 12,
+      "index_type": "uint64",
+      "index": 2,
+      "passed": false,
+      "error": "IndexError: SeriesAxis can only be indexed with integers or slices without breaking the regular structure"
+    }
+  ]
+}
